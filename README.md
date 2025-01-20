@@ -13,7 +13,3 @@ Este é um projeto pessoal de uma página web simples e demonstrativa, desenvolv
 - **HTML**: Estrutura da página e organização dos elementos.
 - **CSS**: Estilização e design para criar um layout visualmente agradável.
 - **JavaScript**: Adição de interatividade e responsividade.
-
-## 🚀 Como Executar o Projeto
-
-1. Faça o download ou clone este repositório:
